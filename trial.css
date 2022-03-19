@@ -1,0 +1,26 @@
+h1{color: rosybrown; text-align: center;}
+#one{
+    background-color: red;
+    width: 400px;
+    height: 500px;
+    padding: 100px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 1000;
+}
+table{
+    border: 3px solid black;
+    /* border-collapse: collapse; */
+}
+td{
+    color : red;
+    border: 3px;
+    border-color: blue;
+}
+button{
+    background-color: Red;
+}
+button:hover{
+    background-color: orange;
+}
